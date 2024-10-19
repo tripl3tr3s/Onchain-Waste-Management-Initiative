@@ -37,8 +37,8 @@ OWMI aims to solve these issues by creating an integrated platform that promotes
    - Monitor operations through a comprehensive web dashboard.
    - Designed for waste management tracking and analytics.
 
-5. **AI/ML Integration**
-   - Enhance quality control and batch verification with AI-driven solutions.
+5. **IoT Integration**
+   - Enhance quality control and batch verification with IoT-driven solutions.
    - Ensure high standards in waste processing.
 
 ## 🌍 Get Involved
